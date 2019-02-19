@@ -1,6 +1,7 @@
 # Done
 
 # ing
+* [promise](https://github.com/snowlotus/front-end-tutorial/blob/master/promise.md)
 * [33-js-concepts](https://github.com/stephentian/33-js-concepts)
 
 
